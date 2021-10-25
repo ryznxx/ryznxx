@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Obviously i don't really active on this account
 <!--
 **ryznxx/ryznxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
