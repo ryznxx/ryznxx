@@ -1,6 +1,18 @@
 ### Hi there 👋
 
 Obviously i don't really active on this account
+
+**Owner tsd-manual**
+
+**Owner akeno-bot**
+
+## Mostly stats in this acc
+[![ryznxx stats](https://github-readme-stats.vercel.app/api?username=ryznxx)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top langs in this acc
+[![Top Langs ryznxx](https://github-readme-stats.vercel.app/api/top-langs/?username=ryznxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Especially most language is golang & typescript/javascript
 <!--
 **ryznxx/ryznxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
