@@ -13,6 +13,7 @@ Obviously i don't really active on this account
 [![Top Langs ryznxx](https://github-readme-stats.vercel.app/api/top-langs/?username=ryznxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Especially most language is golang & typescript/javascript
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&link=https://github.com/ryznxx)](https://github.com/ryznxx) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/ryznxx)](https://github.com/ryznxx)
 [![Golang](https://img.shields.io/badge/-Golang-white?style=flat&logo=golang&link=https://github.com/ryznxx)](https://github.com/ryznxx)
