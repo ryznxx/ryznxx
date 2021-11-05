@@ -17,7 +17,8 @@ Especially most language is golang & typescript/javascript
 [![JavaScript](https://img.shields.io/badge/-JavaScript-brown?style=flat&logo=javascript&link=https://github.com/ryznxx)](https://github.com/ryznxx) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/ryznxx)](https://github.com/ryznxx)
 [![Golang](https://img.shields.io/badge/-Golang-blue?style=flat&logo=golang&link=https://github.com/ryznxx)](https://github.com/ryznxx)
-
+[![GoDoc](https://godoc.org/github.com/kkdai/LineBotTemplate.svg?status.svg)](https://github.com/ryznxx)  
+ 
 <!--
 **ryznxx/ryznxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
