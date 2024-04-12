@@ -2,9 +2,6 @@
 
 Obviously i don't really active on this account
 
-**Owner tsd-manual**
-
-**Owner akeno-bot**
 
 ## Mostly stats in this acc
 [![ryznxx stats](https://github-readme-stats.vercel.app/api?username=ryznxx)](https://github.com/anuraghazra/github-readme-stats)
