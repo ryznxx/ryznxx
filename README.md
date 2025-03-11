@@ -1,15 +1,20 @@
+# Introduction
 
-<!--
-**ryznxx/ryznxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am a software developer with a deep passion for programming languages and system architecture. My experience spans various technologies, allowing me to work efficiently across different environments and projects.
 
-Here are some ideas to get you started:
+## Technical Expertise
+I am proficient in multiple programming languages, including but not limited to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript & TypeScript
+- Rust
+- Go (Golang)
+- Zig
+- C
+- Python
+- Nim
+- Dart
+
+## Interests
+I enjoy exploring the intricacies of language design, performance optimization, and developing efficient, scalable solutions. My expertise enables me to work on a wide range of projects, from web development to systems programming.
+
+Feel free to connect with me!
