@@ -1,4 +1,6 @@
-![Banner](https://files.catbox.moe/s3fwnn.svg)
+<p align="center">
+  <img src="https://files.catbox.moe/s3fwnn.svg" alt="Banner" style="border-radius: 15px; overflow: hidden;">
+</p>
 
 # Introduction
 
@@ -42,4 +44,3 @@ Saya senang mengeksplorasi kompleksitas desain bahasa pemrograman, optimasi perf
 Feel free to connect with me!
 
 Jangan ragu untuk terhubung dengan saya!
-
