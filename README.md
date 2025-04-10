@@ -44,3 +44,7 @@ Saya senang mengeksplorasi kompleksitas desain bahasa pemrograman, optimasi perf
 Feel free to connect with me!
 
 Jangan ragu untuk terhubung dengan saya!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryznxx&layout=compact&langs_count=10&theme=radical&hide=html,css" alt="Most Used Languages">
+</p>
