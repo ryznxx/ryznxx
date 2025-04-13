@@ -12,6 +12,8 @@ Hello! I am a software developer with a deep passion for programming languages a
 
 I am most proficient in Zig, Go, Nim, JavaScript, and TypeScript. My expertise in other languages is more at an intermediate level.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,zig,nim,go)](https://skillicons.dev)
+
 ## Interests
 I enjoy exploring the intricacies of language design, performance optimization, and developing efficient, scalable solutions. My expertise enables me to work on a wide range of projects, from web development to systems programming.
 
