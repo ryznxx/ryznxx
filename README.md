@@ -8,15 +8,19 @@
 
 # Introduction
 
-Hello! I am a software developer with a deep passion for programming languages and system architecture. My experience spans various technologies, allowing me to work efficiently across different environments and projects.
+I’m a software developer obsessed with programming languages and system architecture.  
+Instead of sticking to one stack, I love jumping between paradigms — from low-level tuning in Zig/Nim,  
+to building scalable backends in Go, Python, and TypeScript.  
 
-I am most proficient in Zig, Go, Nim, JavaScript, Python, and TypeScript. My expertise in other languages is more at an intermediate level.
+I don’t just make systems run.  
+I make them run **fast, clean, and maintainable**.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,zig,nim,go,python)](https://skillicons.dev) 
 
 ## Interests
-I enjoy exploring the intricacies of language design, performance optimization, and developing efficient, scalable solutions. My expertise enables me to work on a wide range of projects, from web development to systems programming.
-
+- 🌀 Language design & compilers (because why not build your own rules?)  
+- ⚡ Performance optimization (making code scream instead of crawl)  
+- 🛠 Building efficient & scalable solutions, from web apps to low-level systems
 
 Feel free to connect with me!
 
