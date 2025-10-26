@@ -15,7 +15,7 @@ to building scalable backends in Go, Python, and TypeScript.
 I don’t just make systems run.  
 I make them run **fast, clean, and maintainable**.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,zig,nim,go,python,lua,c,cpp,rust)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,zig,nim,go,python,lua,c,cpp,rust,php)](https://skillicons.dev) 
 
 ## Interests
 - 🌀 Language design & compilers (because why not build your own rules?)  
