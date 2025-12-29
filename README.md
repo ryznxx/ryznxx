@@ -9,7 +9,8 @@ to building scalable backends in Go, Python, and TypeScript.
 I don’t just make systems run.  
 I make them run **fast, clean, and maintainable**.
 
-i can use sum of this language
+i can use sum of this language.
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,zig,nim,go,python,lua,c,cpp,rust,php)](https://skillicons.dev) 
 
 ## Interests
