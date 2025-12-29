@@ -1,8 +1,4 @@
 <img src="https://files.catbox.moe/1y8dr2.png" alt="arch" />
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+stalker!;I'm+ryznxx+as+a+indie+developer!;See+Below!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
-
 # Introduction
 
 I’m a software developer obsessed with programming languages and system architecture.  
