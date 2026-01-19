@@ -13,6 +13,22 @@ i can use sum of this language.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,zig,nim,go,python,lua,c,cpp,rust,php,dart,scss)](https://skillicons.dev) 
 
+framework that i usually use :
+
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,svelte,elysia,express,flask,react,fastapi,laravel,prisma,tauri,vite)](https://skillicons.dev) 
+
+os that i use :
+
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,ubuntu)](https://skillicons.dev) 
+
+familiar with :
+
+
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,wasm,netlify,vercel,bun,nginx,nodejs,deno,postman,pug,docker)](https://skillicons.dev) 
+
+
+
 ## Interests
 - 🌀 Language design & compilers (because why not build your own rules?)  
 - ⚡ Performance optimization (making code scream instead of crawl)  
