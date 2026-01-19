@@ -25,7 +25,7 @@ os that i use :
 familiar with :
 
 
-[![My Skills](https://skillicons.dev/icons?i=godot,unity,wasm,netlify,vercel,bun,nginx,nodejs,deno,postman,pug,docker)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,wasm,netlify,vercel,bun,nginx,nodejs,deno,postman,pug,docker,mysql,cassandra,postgres,mongodb)](https://skillicons.dev) 
 
 
 
